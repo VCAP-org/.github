@@ -20,5 +20,6 @@ Verification runs entirely in the browser: no account, no trust in our servers.
 
 - Website: [vcap.gregoriogalante.com](https://vcap.gregoriogalante.com)
 - Verify a file: [verify.vcap.gregoriogalante.com](https://verify.vcap.gregoriogalante.com)
+- Console: [console.vcap.gregoriogalante.com](https://console.vcap.gregoriogalante.com)
 
 Status: in development. Spec and verifier are MIT-licensed.
